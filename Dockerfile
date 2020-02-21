@@ -5,7 +5,7 @@
 FROM debian:jessie
 
 # File Author / Maintainer
-MAINTAINER Bartlomiej Przytarski <b.przytarski@gmail.com>
+MAINTAINER Salim Rahman <me@salimrahman.com>
 WORKDIR /data
 
 
